@@ -1,20 +1,19 @@
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-You are free to:
+Este projeto está licenciado sob a licença Creative Commons "Atribuição-NãoComercial 4.0 Internacional".
 
-Share — copy and redistribute the material in any medium or format
+Você tem liberdade para:
 
-Adapt — remix, transform, and build upon the material
+✅ Compartilhar — copiar e redistribuir o material em qualquer meio ou formato  
+✅ Adaptar — remixar, transformar e criar a partir do material  
 
+**Desde que respeite as seguintes condições:**
 
-Under the following terms:
+- **Atribuição** — Você deve dar o crédito apropriado, fornecer um link para a licença e indicar se alterações foram feitas.  
+- **Não Comercial** — Você não pode usar o material para fins comerciais.
 
-Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-
-NonCommercial — You may not use the material for commercial purposes.
-
-
-No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
+📎 Licença completa: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
+
+© 2025 KaiP — Todos os direitos sobre o universo e a identidade de *New Days Dawn* permanecem com o autor.
