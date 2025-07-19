@@ -1,5 +1,7 @@
 # 🌒 New Days Dawn - Sistema de RPG (Alpha Test)
 
+![New Days Dawn banner](./assets/banner.png)
+
 > “Quando a noite some, o novo dia traz promessas... e cobranças.”  
 > — Introdução ao cenário
 
