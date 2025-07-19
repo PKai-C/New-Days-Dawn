@@ -1,63 +1,79 @@
-# 🌒 New Days Dawn - Alpha Test
-
-**New Days Dawn** é um sistema de RPG de mesa criado para narrativas dramáticas, tensas e cheias de escolhas difíceis.  
-Neste mundo, a esperança nasceu de novo... mas o preço da reconstrução é pago com sangue, decisões e sacrifícios.
+# 🌒 New Days Dawn - Sistema de RPG (Alpha Test)
 
 > “Quando a noite some, o novo dia traz promessas... e cobranças.”  
 > — Introdução ao cenário
 
----
-
-## 🎲 Sobre o Sistema
-
-New Days Dawn é um sistema próprio de RPG focado em:
-
-- **Conflitos emocionais e éticos**
-- **Narrativas intensas e sem maniqueísmo**
-- **Progressão baseada em trauma, vínculo e legado**
-- **Ambientação pós-quase-apocalíptica**, onde o mundo ainda se cura
-
-Esse PDF atual é um **alpha test** — o conteúdo está em desenvolvimento e sujeito a ajustes baseados em feedback dos jogadores e mestres.
+![Status](https://img.shields.io/badge/status-alpha-red)
+![License](https://img.shields.io/badge/license-CC--BY--NC--4.0-blue)
+![Feito por](https://img.shields.io/badge/feito%20por-KaiP-blueviolet)
 
 ---
 
-## 📦 Conteúdo Atual
+## 🎭 Sobre o Sistema
 
-- Introdução ao mundo e contexto narrativo
-- Regras básicas (atributos, rolagens, combate e testes)
-- Criação de personagens
-- Sistema de traumas e cicatrizes
-- Ganchos para campanhas e exemplos de sessões
+**New Days Dawn** é um sistema original de RPG de mesa criado para narrativas intensas, dramáticas e humanas.  
+Aqui, a reconstrução do mundo exige coragem, sacrifício e cicatrizes que moldam os personagens.
+
+- 🎲 Sistema próprio baseado em traumas, vínculos e escolhas
+- 🌍 Ambientação pós-quase-apocalíptica, com tons sombrios e esperançosos
+- 🎙️ Ideal para campanhas narrativas com temas profundos
 
 ---
 
-## 🧠 Para Jogadores e Mestres
+## 📦 O Que Está Incluso
 
-- **Playtesters bem-vindos** — qualquer feedback é útil!
-- Pode usar em mesas públicas, privadas, online ou presenciais
-- Evite usar o conteúdo para fins comerciais (veja a licença abaixo)
+- 📘 Documento PDF com o sistema base (alpha)
+- 🧍 Regras de criação de personagem
+- ⚔️ Mecânicas de combate, drama e cicatrizes
+- 🧠 Conceitos únicos como Marcas, Legado e Ecos
+- 🧪 Material para testes em mesa e feedbacks
+
+> A versão atual está em fase **alpha**, aberta para playtests e sugestões.
+
+---
+
+## 🚀 Começando
+
+Você pode baixar o sistema em PDF aqui:  
+📥 [`New Days Dawn RPG alpha test.pdf`](./docs/New%20Days%20Dawn%20RPG%20alpha%20test.pdf)
+
+> Recomenda-se leitura narrativa antes de testar em mesa.
 
 ---
 
 ## 🧾 Licença
 
-Este projeto está licenciado sob a  
+Este projeto está sob a licença  
 **[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)**
 
-> Você pode compartilhar, adaptar e distribuir o conteúdo, desde que dê crédito ao autor e **não o utilize para fins comerciais**.
+Você pode compartilhar, adaptar e distribuir o conteúdo desde que:
+
+- Dê crédito ao autor (KaiP)
+- **Não o utilize para fins comerciais**
 
 ---
 
-## 👤 Autor
+## ✒️ Créditos
 
 Criado por **KaiP**  
-Desenvolvido com amor por mundos narrativos e sistemas que deixam marcas.
+🎷 Narrador de histórias, criador de mundos, amante de jazz e RPGs existenciais.
 
 ---
 
-## 💬 Contato & Contribuições
+## 🛠️ Contribuições
 
-Quer contribuir com ideias, feedbacks ou correções?  
-Fique à vontade para abrir issues aqui no GitHub ou me chamar diretamente!
+Sinta-se livre para abrir uma **issue** com feedback, ideias, correções ou sugestões.
 
 ---
+
+## 📅 Roadmap
+
+- [ ] Finalização da versão beta
+- [ ] Ficha de personagem digital
+- [ ] Expansão do mundo (locações, facções, eventos)
+- [ ] Suplemento narrativo: “Caminhos Rachados”
+
+---
+
+> “Viva como se fosse o último dia… lute como se já estivesse morto.”  
+> — Voz de fundo em New Days Dawn
