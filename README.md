@@ -1,9 +1,12 @@
-# 🌒 New Days Dawn - Sistema de RPG (Alpha Test)
+<img src="./assets/banner.png" alt="New Days Dawn banner" style="border-radius:12px;box-shadow:0 0 10px #000;width:100%;"/>
 
-![New Days Dawn banner](/Assets/Banner.png)
+---
 
-> “Quando a noite some, o novo dia traz promessas... e cobranças.”  
-> — Introdução ao cenário
+# 🌒 New Days Dawn - RPG Psicológico Analógico
+
+> “Quando o Sol nasceu errado, a sanidade virou sobrevivência.”
+
+---
 
 ![Status](https://img.shields.io/badge/status-alpha-red)
 ![License](https://img.shields.io/badge/license-CC--BY--NC--4.0-blue)
@@ -11,71 +14,76 @@
 
 ---
 
-## 🎭 Sobre o Sistema
+## 🎲 O que é New Days Dawn?
 
-**New Days Dawn** é um sistema original de RPG de mesa criado para narrativas intensas, dramáticas e humanas.  
-Aqui, a reconstrução do mundo exige coragem, sacrifício e cicatrizes que moldam os personagens.
+**New Days Dawn** é um sistema de RPG autoral criado por **KaiP**, que explora o colapso da realidade diante de um evento cósmico: o Sol se tornou uma anomalia mortal.
 
-- 🎲 Sistema próprio baseado em traumas, vínculos e escolhas
-- 🌍 Ambientação pós-quase-apocalíptica, com tons sombrios e esperançosos
-- 🎙️ Ideal para campanhas narrativas com temas profundos
+Você joga como um dos poucos seres humanos sobreviventes — ou fragmentos do que isso um dia significou — tentando entender o que sobrou do mundo, de si mesmo e do tempo.
 
 ---
 
-## 📦 O Que Está Incluso
+## 🧠 Temas e Mecânicas
 
-- 📘 Documento PDF com o sistema base (alpha)
-- 🧍 Regras de criação de personagem
-- ⚔️ Mecânicas de combate, drama e cicatrizes
-- 🧠 Conceitos únicos como Marcas, Legado e Ecos
-- 🧪 Material para testes em mesa e feedbacks
-
-> A versão atual está em fase **alpha**, aberta para playtests e sugestões.
+- 🧩 Identidade fragmentada e trauma
+- ☀️ Horror cósmico com estética analógica
+- 🧬 Facções misteriosas (ORVALHA, LUX SANCTA, VERMEX, GLITCH)
+- 🧪 Testes com d6 baseados em atributos subjetivos
+- 🎭 “Confirmação de Humanos”: mecânica única que distorce a percepção de quem é real
 
 ---
 
-## 🚀 Começando
+## 📥 Baixe o sistema (PDF)
 
-Você pode baixar o sistema em PDF aqui:  
-📥 [`New Days Dawn RPG alpha test.pdf`](./Game/NewDaysDawnRPG.pdf)
+👉 [`NewDaysDawnRPG.pdf`](./Game/NewDaysDawnRPG.pdf)
 
-> Recomenda-se leitura narrativa antes de testar em mesa.
-
----
-
-## 🧾 Licença
-
-Este projeto está sob a licença  
-**[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)**
-
-Você pode compartilhar, adaptar e distribuir o conteúdo desde que:
-
-- Dê crédito ao autor (KaiP)
-- **Não o utilize para fins comerciais**
+> A versão atual está em fase **Alpha**, aberta para playtests, ajustes e expansão narrativa.
 
 ---
 
-## ✒️ Créditos
+## ✍️ Feito por
 
-Criado por **KaiP**  
-🎷 Narrador de histórias, criador de mundos, amante de jazz e RPGs existenciais.
-
----
-
-## 🛠️ Contribuições
-
-Sinta-se livre para abrir uma **issue** com feedback, ideias, correções ou sugestões.
+> **KaiP** — Criador de mundos, amante de jazz, RPGs estranhos e realidades estilhaçadas.
 
 ---
 
-## 📅 Roadmap
+## 📜 Licença
 
-- [ ] Finalização da versão beta
+Este projeto está sob a licença:
+
+[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+Você pode:
+- ✅ Jogar, remixar e adaptar
+- ❌ Não pode vender nem usar comercialmente
+
+Sempre dê crédito ao autor.
+
+---
+
+## 🎥 Pode aparecer em vídeos?
+
+Sim! Criadores de conteúdo podem:
+- Fazer vídeos, streams, lives e tutoriais
+- Usar o sistema com liberdade, desde que **não vendam** ou **comercializem diretamente**
+- Deem os devidos créditos a KaiP e ao projeto
+
+---
+
+## 🧩 Caminhos futuros
+
 - [ ] Ficha de personagem digital
-- [ ] Expansão do mundo (locações, facções, eventos)
-- [ ] Suplemento narrativo: “Caminhos Rachados”
+- [ ] Suplemento “Caminhos Rachados”
+- [ ] Versão física artesanal
+- [ ] Modo solo opcional
 
 ---
 
-> “Viva como se fosse o último dia… lute como se já estivesse morto.”  
-> — Voz de fundo em New Days Dawn
+## 💬 Contribua
+
+📌 Sugestões, correções e ideias?  
+Abra uma **issue** ou envie uma **pull request**.
+
+---
+
+> “Acordar num mundo onde o tempo perdeu o ritmo… é escolher entre esquecer ou lembrar demais.”  
+> — Introdução de New Days Dawn
