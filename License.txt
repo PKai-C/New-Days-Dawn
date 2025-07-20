@@ -12,7 +12,8 @@ Você tem liberdade para:
 - **Atribuição** — Você deve dar o crédito apropriado, fornecer um link para a licença e indicar se alterações foram feitas.  
 - **Não Comercial** — Você não pode usar o material para fins comerciais.
 
-📎 Licença completa: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
+📎 Licença completa: [https://creativecommons.org/licenses/by-nc/4.0/ ]
+(https://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
 
