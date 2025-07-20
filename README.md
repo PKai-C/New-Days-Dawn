@@ -37,7 +37,7 @@ Aqui, a reconstrução do mundo exige coragem, sacrifício e cicatrizes que mold
 ## 🚀 Começando
 
 Você pode baixar o sistema em PDF aqui:  
-📥 [`New Days Dawn RPG alpha test.pdf`](./docs/New%20Days%20Dawn%20RPG%20alpha%20test.pdf)
+📥 [`New Days Dawn RPG alpha test.pdf`](./Game/NewDaysDawnRPG.pdf)
 
 > Recomenda-se leitura narrativa antes de testar em mesa.
 
