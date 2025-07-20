@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" alt="New Days Dawn banner" style="border-radius:12px;box-shadow:0 0 10px #000;width:100%;"/>
+<img src="./assets/Banner.png" alt="New Days Dawn banner" style="border-radius:12px;box-shadow:0 0 10px #000;width:100%;"/>
 
 ---
 
